@@ -8,14 +8,15 @@ html {
 
 body {
   font-family: 'Source Sans Pro', sans-serif;
-  padding: 50px;
-  font-size: 20px;
-  color: white;
+  padding: 1em;
+  font-size: 4em;
+  color: #577881;
 }
 
 a {
-  color: #1F333E;
+  color: #28364E;
   text-decoration: none;
+  font-size: 0.4em;
 }
 
 a:hover {
@@ -25,6 +26,7 @@ a:hover {
 
 h1 {
   font-weight: lighter;
+  margin-bottom: 8px;
 }
 
 #titlebox {
